@@ -1,0 +1,4 @@
+    'dashboard/api/details//$Action/$SchoolID':           'Tuturu\Controllers\API\SchoolDetailsController'
+    'dashboard/api/providers//$Action/$ProviderID':       'Tuturu\Controllers\API\ProviderDetailsController'
+    'dashboard/api/schoolList//$Action':                  'Tuturu\Controllers\API\SchoolListController'
+    'dashboard/api/communityList//$Action':               'Tuturu\Controllers\API\CommunityListController'
